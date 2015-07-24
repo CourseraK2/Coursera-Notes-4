@@ -1,2 +1,3 @@
 # coursera
-Repository for programming exercises completed for coursera courses.
+
+Repository for notes amd programming exercises completed for coursera courses.
