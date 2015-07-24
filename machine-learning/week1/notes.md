@@ -5,4 +5,3 @@
 ## Supervised Learning
 
 - Some 'right' answers are given and an algorithm will return more 'right' answers.
-
